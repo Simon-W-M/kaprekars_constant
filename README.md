@@ -29,6 +29,8 @@ Sometimes it only takes 1 iterations and sometimes many more.
 
 ## Loopy
 
+
+I then chucked the function in a loop 
 Ran it through a loop to try all iterations from 1000 to 9998
 Had to test to see if all numbers are same otherwise the while loop would loop for infinity
 
@@ -39,8 +41,6 @@ Also the maximum number of iterations is 7 but that is not the most frequent (wh
 
 ## Conclusion
 
-Really interesting little thing of no use whatsoever, but fun to build anyways
+Really interesting little thing of no use whatsoever, but fun to build anyways.
+Good to test skills in string spliting and putting back togther again. 
 
-
-
-I then chucked the function in a loop 
